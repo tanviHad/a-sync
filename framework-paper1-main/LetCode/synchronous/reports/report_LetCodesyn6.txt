@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodesyn6.py:
+Memory Usage (Bytes): 0
+CPU Time (Seconds): 0
+Execution Time (Seconds): 0.11253440007567406

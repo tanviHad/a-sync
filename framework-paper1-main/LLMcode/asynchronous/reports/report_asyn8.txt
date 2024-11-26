@@ -1,0 +1,4 @@
+Resource Usage Report for asyn8.py:
+Memory Usage (Bytes): 11214848
+CPU Time (Seconds): 0
+Execution Time (Seconds): 10.377480200026184

@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodeasyn14.py:
+Memory Usage (Bytes): 0
+CPU Time (Seconds): 0
+Execution Time (Seconds): 0.11244830023497343

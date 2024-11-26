@@ -1,0 +1,4 @@
+Resource Usage Report for asyn5.py:
+Memory Usage (Bytes): 10129408
+CPU Time (Seconds): 0
+Execution Time (Seconds): 3.2910233000293374

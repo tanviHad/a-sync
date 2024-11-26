@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodesyn14.py:
+Memory Usage (Bytes): 13103104
+CPU Time (Seconds): 0
+Execution Time (Seconds): 0.3453024001792073

@@ -1,0 +1,4 @@
+Resource Usage Report for syn10.py:
+Memory Usage (Bytes): 1708032
+CPU Time (Seconds): 0.0
+Execution Time (Seconds): 0.1196869001723826

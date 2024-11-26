@@ -1,0 +1,4 @@
+Resource Usage Report for asyn3.py:
+Memory Usage (Bytes): 17096704
+CPU Time (Seconds): 0
+Execution Time (Seconds): 7.205038299784064

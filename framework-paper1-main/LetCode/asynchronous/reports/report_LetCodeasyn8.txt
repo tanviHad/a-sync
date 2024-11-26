@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodeasyn8.py:
+Memory Usage (Bytes): 11661312
+CPU Time (Seconds): 0
+Execution Time (Seconds): 1.021669200155884

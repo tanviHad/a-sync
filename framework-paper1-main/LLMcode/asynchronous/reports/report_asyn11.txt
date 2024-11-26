@@ -1,0 +1,4 @@
+Resource Usage Report for asyn11.py:
+Memory Usage (Bytes): 15892480
+CPU Time (Seconds): 0
+Execution Time (Seconds): 17.193498199805617

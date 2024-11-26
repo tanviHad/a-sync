@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodeasyn3.py:
+Memory Usage (Bytes): 12226560
+CPU Time (Seconds): 0
+Execution Time (Seconds): 7.274740899913013

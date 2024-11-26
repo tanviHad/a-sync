@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodesyn5.py:
+Memory Usage (Bytes): 10256384
+CPU Time (Seconds): 0
+Execution Time (Seconds): 0.11149989999830723

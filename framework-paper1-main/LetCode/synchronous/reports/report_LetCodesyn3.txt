@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodesyn3.py:
+Memory Usage (Bytes): 10477568
+CPU Time (Seconds): 0
+Execution Time (Seconds): 6.081345200072974

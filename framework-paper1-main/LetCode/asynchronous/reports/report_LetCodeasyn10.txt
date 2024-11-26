@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodeasyn10.py:
+Memory Usage (Bytes): 13987840
+CPU Time (Seconds): 0
+Execution Time (Seconds): 32.1199262002483

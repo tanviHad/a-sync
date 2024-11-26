@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodesyn11.py:
+Memory Usage (Bytes): 0
+CPU Time (Seconds): 0
+Execution Time (Seconds): 0.11416719993576407

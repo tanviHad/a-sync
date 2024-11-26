@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodeasyn5.py:
+Memory Usage (Bytes): 17051648
+CPU Time (Seconds): 0
+Execution Time (Seconds): 4.182807199656963

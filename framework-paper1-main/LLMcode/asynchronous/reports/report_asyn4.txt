@@ -1,0 +1,4 @@
+Resource Usage Report for asyn4.py:
+Memory Usage (Bytes): 12500992
+CPU Time (Seconds): 0
+Execution Time (Seconds): 0.6432405998930335

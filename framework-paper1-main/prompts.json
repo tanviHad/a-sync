@@ -1,0 +1,56 @@
+{
+ "prompt_1": {
+            "message_query": "Write a Python program that creates an asynchronous function to print (Python Exercises!) with a two second delay",
+            
+        },
+        "prompt_2": {
+            "message_change_query": "Write a Python program that creates three asynchronous functions and displays their respective names with different delays (1 second, 2 seconds, and 3 seconds)",
+            
+        },
+        "prompt_3": {
+            "mods_query": "Write a Python program that creates an asyncio event loop and runs a coroutine that prints numbers from 1 to 7 with a delay of 1 second each",
+            
+        },
+        "prompt_4": {
+            "mods_change_query": "Write a Python program that implements a coroutine to fetch data from two different URLs simultaneously using the "aiohttp" library",
+            
+        }
+    }
+	"prompt_5": {
+            "mods_query": "Write a Python program that creates three asynchronous functions and displays their respective names with different delays (1 second, 2 seconds, and 3 seconds)",
+            
+        },
+	"prompt_6": {
+            "mods_query": "Write a Python program that creates three asynchronous functions and displays their respective names with different delays (1 second, 2 seconds, and 3 seconds)",
+            
+        },
+	"prompt_7": {
+            "mods_query": "Write a Python program that creates three asynchronous functions and displays their respective names with different delays (1 second, 2 seconds, and 3 seconds)",
+            
+        },
+    "prompt_8": {
+            "mods_query": "Write a Python program that creates three asynchronous functions and displays their respective names with different delays (1 second, 2 seconds, and 3 seconds)",
+            
+        },
+	"prompt_9": {
+            "mods_query": "Write a Python program that simulates blocking I/O operations in a task execution loop using time.sleep(). Utilize the codetiming module's Timer to measure and log the duration of each task and the overall execution time. The program sequentially processes tasks from a queue, each pausing for a specified delay to represent a blocking call in a single-threaded multitasking scenario",
+            
+        },
+	"prompt_10": {
+            "mods_query": "Write a Python program that implements cooperative multitasking using generators to manage two tasks executing concurrently. Each task processes a queue of delays, simulating work with timed pauses, and logs the time taken for each operation. The program measures and outputs the total runtime for both tasks upon completion",
+            
+        },
+	"prompt_11": {
+            "mods_query": "Write asynchronous Python program with two tasks that process a shared queue of timed delays using asyncio. Utilize the codetiming module to track and log the duration of each task's completion of work items. The program ensures all tasks are completed concurrently and reports the total processing time",
+            
+        },
+	"prompt_12": {
+            "mods_query": "write a Python program that concurrently processes web requests from a queue using a cooperative multitasking approach. Two tasks take turns fetching URLs, timing each request with the codetiming module. The program runs until all URLs are retrieved, tracking and reporting the total time spent on all requests",
+            
+        }
+	,"prompt_13": {
+            "mods_query": "Write a Python program that creates three asynchronous functions and displays their respective names with different delays (1 second, 2 seconds, and 3 seconds)",
+            
+        },
+	
+		

@@ -1,0 +1,4 @@
+Resource Usage Report for syn6.py:
+Memory Usage (Bytes): 1708032
+CPU Time (Seconds): 0.0
+Execution Time (Seconds): 0.11099039996042848

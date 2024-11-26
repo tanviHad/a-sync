@@ -1,0 +1,4 @@
+Resource Usage Report for asyn7.py:
+Memory Usage (Bytes): 11657216
+CPU Time (Seconds): 0
+Execution Time (Seconds): 5.231462600175291

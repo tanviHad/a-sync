@@ -1,0 +1,4 @@
+Resource Usage Report for asyn1.py:
+Memory Usage (Bytes): 15822848
+CPU Time (Seconds): 0
+Execution Time (Seconds): 2.241159899625927

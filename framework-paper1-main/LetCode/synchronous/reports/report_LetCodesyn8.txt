@@ -1,0 +1,4 @@
+Resource Usage Report for LetCodesyn8.py:
+Memory Usage (Bytes): 15204352
+CPU Time (Seconds): 0
+Execution Time (Seconds): 0.25742359971627593
